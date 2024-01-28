@@ -1,4 +1,4 @@
-name: Owasp Zap Scanning
+name: Owasp Zap Scan
 
 on: [push]
 
